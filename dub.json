@@ -1,0 +1,9 @@
+{
+	"name": "algebraic",
+	"authors": [
+		"Ryuichi OHORI"
+	],
+	"description": "Algebraic type with pattern match",
+	"copyright": "Copyright (c) 2016, Ryuichi OHORI",
+	"license": "Unlicense"
+}
